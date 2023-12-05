@@ -23,7 +23,7 @@ We can help!
 
 | Business Rental | Runbook Service |
 | --- | --- | 
-| We rent your business, and pay you $1500/yr | We help you running business according to your need; we charge you service fee dependon on requirement |
+| We rent your business, and pay you $1,500/yr | We help you running business according to your need; we charge you service fee dependon on requirement |
 
 ## Contact Us
 
