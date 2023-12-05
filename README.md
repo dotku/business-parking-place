@@ -18,7 +18,7 @@ We can help!
 * We help you to lease your business on multiple platforms, and pay you business 
 maintainance fee up to $1500/yr.
 * We also can just follow your runbook to operating the business with
-minimum service fee depending on your requirement based on at will.
+minimum service fee depending on your requirements.
 
 
 | Business Rental | Runbook Service |
