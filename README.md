@@ -17,8 +17,9 @@ We can help!
 ## Requirement
 
 * Don't want to run a business at least up to a year.
+* We help you to lease your business on multiple platforms, and pay you business maintainance fee up to $1500/yr.
 * We will help you to operating the business with minimum service fee.
-* We help you to lease your business on multiple platforms.
+
 
 | Business Rental | Runbook Service |
 | --- | --- | 
