@@ -1,4 +1,6 @@
-# Business parking service
+# Biz Park
+
+A busienss parking service provider.
 
 So you don't want to run your business anymore?
 You want to take a break and enjoy trip for a year? But still want to make some money for
