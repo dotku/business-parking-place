@@ -2,17 +2,13 @@
 
 A busienss parking service provider.
 
+## Intro
+
 So you don't want to run your business anymore?
 Or you want to take a break and enjoy a lifetime moment for up to a year,
 but still want to make some money to cover the business maintaince cost?
 
-We can help!
-
-## Intro
-
-Keeping a business running isn't easy, you need handle quite a lot affairs.
-Dealing with a lot of customers... do you want to just hold the title and 
-still making money?!
+Or you are new business owner want to start making money soon?
 
 We can help!
 
@@ -20,7 +16,7 @@ We can help!
 
 * Don't want to run a business at least up to a year.
 * We help you to lease your business on multiple platforms, and pay you business maintainance fee up to $1500/yr.
-* We will help you to operating the business with minimum service fee.
+* We also can just follow your runbook to operating the business with minimum service fee.
 
 
 | Business Rental | Runbook Service |
