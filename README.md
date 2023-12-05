@@ -3,8 +3,8 @@
 A busienss parking service provider.
 
 So you don't want to run your business anymore?
-You want to take a break and enjoy trip for a year? But still want to make some money for
-maintaince cost?
+Or you want to take a break and enjoy a lifetime moment for up to a year,
+but still want to make some money to cover the business maintaince cost?
 
 We can help!
 
