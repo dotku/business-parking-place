@@ -16,5 +16,5 @@ We can help!
 
 ## Contact Us
 
-Text/Mobile: [(415)851-1937](tel:4158511937)
-Email: [dkwholesale2020@gmail.com](mailto:dkwholesale2020@gmail.com)
+* Text/Mobile: [(415)851-1937](tel:4158511937)
+* Email: [dkwholesale2020@gmail.com](mailto:dkwholesale2020@gmail.com)
