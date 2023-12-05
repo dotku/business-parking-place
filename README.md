@@ -14,6 +14,16 @@ still making money?!
 
 We can help!
 
+## Requirement
+
+* Don't want to run a business at least up to a year.
+* We will help you to operating the business with minimum service fee.
+* We help you to lease your business on multiple platforms.
+
+| Business Rental | Runbook Service |
+| --- | --- | 
+| We rent your business, and pay you $1500/yr | We help you running business according to your need; we charge you service fee dependon on requirement |
+
 ## Contact Us
 
 * Text/Mobile: [(415)851-1937](tel:4158511937)
