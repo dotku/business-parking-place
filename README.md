@@ -16,7 +16,7 @@ We can help!
 
 * Don't want to run a business at least up to a year.
 * We help you to lease your business on multiple platforms, and pay you business 
-maintainance fee up to $1500/yr.
+maintainance fee up to $500/yr/store.
 * We also can just follow your runbook to operating the business with
 minimum service fee depending on your requirements.
 
