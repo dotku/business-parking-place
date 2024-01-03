@@ -24,7 +24,7 @@ minimum service fee depending on your requirements.
 | Service Name | Service Content | Payment |
 | --- | --- | --- | 
 | Business Contract | We ultilize your business entity on ecommerce | we pay you fixed up to $2,000/yr |
-| Runbook | We help you running business according to your need; we charge you service fee dependon on requirement | you pay us commision with (10%+) |
+| Runbook | We help you running business according to your need; we charge you service fee dependon on requirement | you pay us commision with 10%+ |
 
 ## Contact Us
 
