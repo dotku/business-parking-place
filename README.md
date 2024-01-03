@@ -21,9 +21,9 @@ maintainance fee up to $500/yr/store.
 minimum service fee depending on your requirements.
 
 
-| Business Rental | Runbook Service |
+| Business Contract | Runbook Service |
 | --- | --- | 
-| We rent your business, and pay you $1,500/yr | We help you running business according to your need; we charge you service fee dependon on requirement |
+| We ultilize your business entity on ecommerce, and pay you fixed up to $2,000/yr | We help you running business according to your need; we charge you service fee dependon on requirement |
 
 ## Contact Us
 
